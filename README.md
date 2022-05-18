@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaPascuotte&layout=compact)](https://github.com/LuizaPascuotte/github-readme-stats)
 - Linguagens que uso no dia-a-dia
 <div style="display: inline_block">
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div><hr>
 
 - linguagens em que estou estudando!
