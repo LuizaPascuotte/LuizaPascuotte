@@ -6,7 +6,6 @@
 [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luiza_ramos2002)
 
 ![luiza GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizaPascuotte&show_icons=true&theme=cobalt)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaPascuotte&layout=compact)](https://github.com/LuizaPascuotte/github-readme-stats)
 - Linguagens que uso no dia-a-dia
 <div style="display: inline_block">
